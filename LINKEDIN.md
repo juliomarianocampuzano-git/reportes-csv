@@ -5,4 +5,4 @@ Este proyecto lee un CSV, revisa los datos y calcula los totales por categoría 
 Incluye un ejemplo de facturas con fechas, montos y números repetidos por proveedor. Los datos son ficticios.
 
 El código y las instrucciones están acá:
-https://github.com/juliomarianocampuzano-git/python-queries-automation
+https://github.com/juliomarianocampuzano-git/reportes-csv

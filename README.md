@@ -1,6 +1,6 @@
-# Resumen de CSV
+# Reportes CSV
 
-[![Tests y revisión de código](https://github.com/juliomarianocampuzano-git/python-queries-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/juliomarianocampuzano-git/python-queries-automation/actions/workflows/ci.yml)
+[![Tests y revisión de código](https://github.com/juliomarianocampuzano-git/reportes-csv/actions/workflows/ci.yml/badge.svg)](https://github.com/juliomarianocampuzano-git/reportes-csv/actions/workflows/ci.yml)
 
 Lee un archivo CSV, revisa las filas y calcula el total por categoría con Python y SQL. El resumen se ve en la consola y se puede guardar en otro CSV.
 
