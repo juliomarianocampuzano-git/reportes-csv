@@ -1,0 +1,4 @@
+numero,proveedor,fecha,categoria,monto
+A-001,Proveedor de ejemplo,2026-10-03,Insumos,12500.50
+A-002,Proveedor de ejemplo,2026-10-07,Insumos,7500.00
+S-010,Servicios de ejemplo,2026-10-09,Servicios,18000.00

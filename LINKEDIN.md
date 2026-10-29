@@ -1,1 +1,8 @@
-Publique un proyecto chico de Automatiza consultas SQL, pensado para practicar python, sqlite con un alcance junior. Que hace: Un proyecto mínimo que permite ejecutar consultas SQL simples en SQLite mediante un script en Python. El sistema es fácil de entender, testear y ejecutar sin dependencias externas. Ideal para principiantes que quieren practicar automatización de tareas con bases de datos pequeñas. Como lo arme: deje un entry point claro, datos de ejemplo y tests cortos. El codigo esta simple a proposito, para que se pueda revisar sin un tour guiado. Limite honesto: no escala a produccion, no cubre todos los casos ni tiene autenticacion; es un ejercicio para mostrar criterio, no magia. Repo: https://github.com/juliomarianocampuzano-git/python-queries-automation Que le cambiarias primero: tests, README o el modelo de datos? #python #sql #automatizacion
+# Texto para revisar antes de publicar
+
+Este proyecto lee un CSV, revisa los datos y calcula los totales por categoría con Python y SQL. También permite guardar el resumen en otro CSV.
+
+Incluye un ejemplo de facturas con fechas, montos y números repetidos por proveedor. Los datos son ficticios.
+
+El código y las instrucciones están acá:
+https://github.com/juliomarianocampuzano-git/python-queries-automation

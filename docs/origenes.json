@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-29",
+  "principal": "juliomarianocampuzano-git/python-queries-automation",
+  "scope": "Código compartido, ideas y enlaces a los documentos que quedaron en los repositorios archivados.",
+  "shared_files": [
+    {
+      "path": "main.py",
+      "blob_sha": "b3801233417a33abd891021a0a40b990b8b613bf"
+    },
+    {
+      "path": "tests/test_main.py",
+      "blob_sha": "2152fda24ef4c771c065be85696a9e8ce374e96f"
+    },
+    {
+      "path": "requirements.txt",
+      "blob_sha": "2f03989dca6ec4c5072594b08f2668c750fba348"
+    },
+    {
+      "path": "data/sample.csv",
+      "blob_sha": "82f13179a67ed44392330192c3ab6e72599942ee"
+    },
+    {
+      "path": "LICENSE",
+      "blob_sha": "14fac913ccf80234b1848540089a3bbcb6e5283d"
+    }
+  ],
+  "sources": [
+    {
+      "repository": "juliomarianocampuzano-git/automatizacion-python-sql",
+      "source_tree_sha": "061a3fe3f767c026966876787a5423c81be689bb",
+      "source_commit_sha": "061a3fe3f767c026966876787a5423c81be689bb",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "007601341df9dc18e4eaa092ef2fed0eb064a40a",
+          "original_url": "https://github.com/juliomarianocampuzano-git/automatizacion-python-sql/blob/061a3fe3f767c026966876787a5423c81be689bb/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "8a087f7298cd7c5ad6c25acc9e037d3686c76193",
+          "original_url": "https://github.com/juliomarianocampuzano-git/automatizacion-python-sql/blob/061a3fe3f767c026966876787a5423c81be689bb/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/python-automatizacion-simple",
+      "source_tree_sha": "75b4c9789654965f537005aab9f5a953c6993b39",
+      "source_commit_sha": "75b4c9789654965f537005aab9f5a953c6993b39",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "5cc2f1a54c897da31c99cc09c4a90fee47047c50",
+          "original_url": "https://github.com/juliomarianocampuzano-git/python-automatizacion-simple/blob/75b4c9789654965f537005aab9f5a953c6993b39/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "91881cf2807cbc8190a19efb2a3186296b15d718",
+          "original_url": "https://github.com/juliomarianocampuzano-git/python-automatizacion-simple/blob/75b4c9789654965f537005aab9f5a953c6993b39/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/python-sql-automatizacion-junior",
+      "source_tree_sha": "1cdd0f6c1334642c00bfa05dc7b00d9bc9acb150",
+      "source_commit_sha": "1cdd0f6c1334642c00bfa05dc7b00d9bc9acb150",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "53209e6ac1b4d42b847bee1b422828066924473c",
+          "original_url": "https://github.com/juliomarianocampuzano-git/python-sql-automatizacion-junior/blob/1cdd0f6c1334642c00bfa05dc7b00d9bc9acb150/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "e429fe20722219afdf0b1434a3782a1144cdf551",
+          "original_url": "https://github.com/juliomarianocampuzano-git/python-sql-automatizacion-junior/blob/1cdd0f6c1334642c00bfa05dc7b00d9bc9acb150/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/sql-python-automatizacion-junior",
+      "source_tree_sha": "35837bcf9a3dc9450531818a7cb44c1cd8c47e96",
+      "source_commit_sha": "35837bcf9a3dc9450531818a7cb44c1cd8c47e96",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "ca1663d0f2539935c20b0be8a722d491e1a32f71",
+          "original_url": "https://github.com/juliomarianocampuzano-git/sql-python-automatizacion-junior/blob/35837bcf9a3dc9450531818a7cb44c1cd8c47e96/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "0ccecb57c2e132c3b2cf766a921e1a821318a05a",
+          "original_url": "https://github.com/juliomarianocampuzano-git/sql-python-automatizacion-junior/blob/35837bcf9a3dc9450531818a7cb44c1cd8c47e96/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/invoice-csv-parser",
+      "source_tree_sha": "739857e114a1f39e1856bf564e79baaf62710b82",
+      "source_commit_sha": "739857e114a1f39e1856bf564e79baaf62710b82",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "d5832eda03bca72c205255c52ed2abc5830cec7d",
+          "original_url": "https://github.com/juliomarianocampuzano-git/invoice-csv-parser/blob/739857e114a1f39e1856bf564e79baaf62710b82/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "1e0f0bfeed7ec3fedbcc5597e6b5ff4cdc0ea15e",
+          "original_url": "https://github.com/juliomarianocampuzano-git/invoice-csv-parser/blob/739857e114a1f39e1856bf564e79baaf62710b82/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/kebab-case-unico",
+      "source_tree_sha": "cc5ec03caa654cd363c6daca3bab2267139c7671",
+      "source_commit_sha": "cc5ec03caa654cd363c6daca3bab2267139c7671",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "1ecf26594f018dfa098df9163fe1bcb6fb00a16c",
+          "original_url": "https://github.com/juliomarianocampuzano-git/kebab-case-unico/blob/cc5ec03caa654cd363c6daca3bab2267139c7671/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "c356b8a3cf54967021ed5fdd7b31c228e77f91b0",
+          "original_url": "https://github.com/juliomarianocampuzano-git/kebab-case-unico/blob/cc5ec03caa654cd363c6daca3bab2267139c7671/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/expense-split-sql",
+      "source_tree_sha": "59d076c51d07d6d408bbb65385171665faf9f9da",
+      "source_commit_sha": "59d076c51d07d6d408bbb65385171665faf9f9da",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "9af8acc29f585b8147ce275ba19b299570d4c090",
+          "original_url": "https://github.com/juliomarianocampuzano-git/expense-split-sql/blob/59d076c51d07d6d408bbb65385171665faf9f9da/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "37057d4651f7bc08e153c82211a9325d4806ce51",
+          "original_url": "https://github.com/juliomarianocampuzano-git/expense-split-sql/blob/59d076c51d07d6d408bbb65385171665faf9f9da/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/job-app-tracker",
+      "source_tree_sha": "9eca0bc97d911157c8d2ac2bbf4fc1df074a8fb2",
+      "source_commit_sha": "9eca0bc97d911157c8d2ac2bbf4fc1df074a8fb2",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "27ba6e40815d96afb9c3b82714e13d5cc233ac4c",
+          "original_url": "https://github.com/juliomarianocampuzano-git/job-app-tracker/blob/9eca0bc97d911157c8d2ac2bbf4fc1df074a8fb2/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "a5206f719e037a5264ff20e0bb868bb7b87a7a02",
+          "original_url": "https://github.com/juliomarianocampuzano-git/job-app-tracker/blob/9eca0bc97d911157c8d2ac2bbf4fc1df074a8fb2/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/habit-tracker-cli",
+      "source_tree_sha": "a6b88b65e88100f5154f75f9a0f7fda760a4adfb",
+      "source_commit_sha": "a6b88b65e88100f5154f75f9a0f7fda760a4adfb",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "69dba1c3fd610380244a3f78ab91cc8f0562163c",
+          "original_url": "https://github.com/juliomarianocampuzano-git/habit-tracker-cli/blob/a6b88b65e88100f5154f75f9a0f7fda760a4adfb/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "73889c1ec5c1b5181af90dd39368ca8eb2a6fa3e",
+          "original_url": "https://github.com/juliomarianocampuzano-git/habit-tracker-cli/blob/a6b88b65e88100f5154f75f9a0f7fda760a4adfb/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/rss-digest-lite",
+      "source_tree_sha": "be2791dfcef8d3ef2686a6b2ea317721381f7fa5",
+      "source_commit_sha": "be2791dfcef8d3ef2686a6b2ea317721381f7fa5",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "edce5cd2d0a1718a32c6787286612d0cbd7ce02e",
+          "original_url": "https://github.com/juliomarianocampuzano-git/rss-digest-lite/blob/be2791dfcef8d3ef2686a6b2ea317721381f7fa5/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "cfae42066a7a115972440dc4daf89647f8cbe9df",
+          "original_url": "https://github.com/juliomarianocampuzano-git/rss-digest-lite/blob/be2791dfcef8d3ef2686a6b2ea317721381f7fa5/LINKEDIN.md"
+        }
+      ]
+    },
+    {
+      "repository": "juliomarianocampuzano-git/yaml-config-lint",
+      "source_tree_sha": "a7cc225613d8db9fa7f834e2a34b23262e8b6ad3",
+      "source_commit_sha": "a7cc225613d8db9fa7f834e2a34b23262e8b6ad3",
+      "documents": [
+        {
+          "original_path": "README.md",
+          "blob_sha": "c782e641835e72628916cb994a762c0920122303",
+          "original_url": "https://github.com/juliomarianocampuzano-git/yaml-config-lint/blob/a7cc225613d8db9fa7f834e2a34b23262e8b6ad3/README.md"
+        },
+        {
+          "original_path": "LINKEDIN.md",
+          "blob_sha": "84df2664267ff3bbe11f38b1670b7d1ca8ba538c",
+          "original_url": "https://github.com/juliomarianocampuzano-git/yaml-config-lint/blob/a7cc225613d8db9fa7f834e2a34b23262e8b6ad3/LINKEDIN.md"
+        }
+      ]
+    }
+  ]
+}
