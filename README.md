@@ -1,46 +1,55 @@
-# Automatiza consultas SQL
+# CSV + SQLite: automatización de resúmenes
 
-Slug: `python-queries-automation`
+CLI en Python que lee un CSV, carga sus filas en SQLite en memoria y muestra el total general y los totales por categoría. Este es el repositorio principal del portfolio para este ejercicio de automatización de datos.
 
-Un proyecto mínimo que permite ejecutar consultas SQL simples en SQLite mediante un script en Python. El sistema es fácil de entender, testear y ejecutar sin dependencias externas. Ideal para principiantes que quieren practicar automatización de tareas con bases de datos pequeñas.
+## Funcionalidad actual
 
-Este repo es un ejercicio junior de portfolio (SQL / Python / automatizacion).
-No es un producto de produccion: cubre un caso feliz, trae datos de ejemplo y tests cortos.
+- Entrada CSV con columnas `name`, `category` y `amount`.
+- Consultas SQL de suma y agrupación por categoría.
+- Selección de archivo con `--data` y ayuda con `--help`.
+- Datos ficticios incluidos y tests básicos.
 
-## Stack
+SQLite se utiliza en memoria: los datos no se conservan al terminar. Las consultas están definidas en el código; la CLI no acepta SQL arbitrario. La ejecución utiliza la biblioteca estándar de Python.
 
-python, sqlite
-
-## Como correrlo
+## Uso
 
 ```bash
+python main.py --help
 python main.py
+python main.py --data data/sample.csv
+```
+
+Salida del CSV incluido:
+
+```text
+total=14.70
+food=5.50
+supplies=8.00
+transport=1.20
+```
+
+## Tests
+
+En un entorno virtual, instalar pytest y ejecutar:
+
+```bash
+python -m pip install pytest
 python -m pytest -q
 ```
 
-## Features
+## Alcance y próximos pasos
 
-- Ejecuta consultas SQL básicas en un archivo SQLite
-- Muestra resultados en consola
-- Permite usar comandos SQL simples como SELECT
-- No requiere conexión a base de datos remota
+Es un ejercicio pequeño de portfolio. La validación completa de CSV y montos, la exportación de reportes y el caso específico de facturas están pendientes. No se implementaron nuevas funciones durante la consolidación documental del 29 de octubre de 2026.
 
-## Datos de ejemplo
+## Consolidación del portfolio
 
-El archivo `data/sample.csv` alcanza para ver el flujo completo sin APIs externas.
+Se reunieron aquí las ideas y la documentación de once repositorios con la misma implementación base. Sus documentos originales se conservan como material histórico, con sus enlaces y hashes de origen.
 
-## Limite honesto
+- [Registro de consolidación, ideas recuperadas y documentos originales](CONSOLIDATION.md).
 
-No hay autenticacion, ni UI, ni escala. Sirve para leer el codigo de una sentada y
-mostrar criterio de junior: un entry point, una tabla SQLite y tests del camino feliz.
+Los documentos históricos pueden describir funcionalidades aún no implementadas; la lista de funcionalidad actual de este README es la referencia del estado del proyecto.
 
-## Publicacion
+## Licencia
 
-Repo: https://github.com/juliomarianocampuzano-git/python-queries-automation
+MIT. Ver [LICENSE](LICENSE).
 
-Audiencia: AR/LATAM/EU/US
-Nivel: junior
-Dominio: SQL/Python/IA Automation
-
-Este README se completo en el paso documentar del ciclo local. El post de LinkedIn
-vive en LINKEDIN.md (espanol rioplatense, tono junior, con un limite honesto).
